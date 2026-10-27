@@ -183,16 +183,8 @@ private static final String PASS = "sua_senha";
 No Eclipse, abra LoginFrame.java e rode (Ctrl + F11).
 Cadastre um usuário, faça login e comece a abrir chamados. 🚀
 
-🖼️ Screenshots
 
-    (Adicione aqui prints das telas do sistema)
 
-Tela de Login	Cadastro de Usuário
-(<img width="310" height="254" alt="image" src="https://github.com/user-attachments/assets/9e9554aa-4073-4328-8a9a-4ffc43c1ce02" />
-)	(<img width="404" height="383" alt="image" src="https://github.com/user-attachments/assets/8312723c-7dc4-4463-bb29-9bb9e96ecf75" />
-)
-Tela Principal
-(print)
 🛣️ Roadmap
 
     ☑
